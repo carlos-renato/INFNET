@@ -1,2 +1,2 @@
 # INFNET
-Repositórios com exercícios propostos pelos professores de programação.
+Exercícios e trabalhos propostos pelos professores e estudos realizados independentemente.
